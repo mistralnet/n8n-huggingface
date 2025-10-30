@@ -1,1 +1,1 @@
-# Required for Spaces
+# Required for Hugging Face Spaces
