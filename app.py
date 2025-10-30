@@ -1,3 +1,3 @@
-# This file is required for Hugging Face Spaces
-# N8N will run in the background
-print("N8N Space is ready!")
+FROM n8nio/n8n
+EXPOSE 8080
+CMD ["n8n", "start"]
